@@ -65,4 +65,4 @@ jobs:
           app-name: 'web-apitest-prod-weus'
           slot-name: 'staging'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FDAB84B8E52F4D9FA2FFBEC74D77F07E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_622DFFFC227944FEB5ECA740A7358E65 }}
